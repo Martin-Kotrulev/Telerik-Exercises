@@ -1,0 +1,5 @@
+D:\Trash\04.ConsoleInputOutput\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.exe
+D:\Trash\04.ConsoleInputOutput\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.pdb
+D:\Trash\04.ConsoleInputOutput\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\Trash\04.ConsoleInputOutput\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.exe
+D:\Trash\04.ConsoleInputOutput\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.pdb

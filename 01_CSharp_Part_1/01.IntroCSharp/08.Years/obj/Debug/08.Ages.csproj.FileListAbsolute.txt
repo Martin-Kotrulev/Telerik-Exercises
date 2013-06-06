@@ -1,0 +1,10 @@
+D:\Trash\01.IntroCSharp\07.Years\obj\Debug\07.Years.exe
+D:\Trash\01.IntroCSharp\07.Years\obj\Debug\07.Years.pdb
+D:\Trash\01.IntroCSharp\07.Years\bin\Debug\07.Years.exe
+D:\Trash\01.IntroCSharp\07.Years\bin\Debug\07.Years.pdb
+D:\Trash\01.IntroCSharp\07.Years\obj\Debug\08.Ages.csprojResolveAssemblyReference.cache
+D:\Trash\01.IntroCSharp\08.Years\obj\Debug\07.Years.exe
+D:\Trash\01.IntroCSharp\08.Years\obj\Debug\07.Years.pdb
+D:\Trash\01.IntroCSharp\08.Years\obj\Debug\08.Ages.csprojResolveAssemblyReference.cache
+D:\Trash\01.IntroCSharp\08.Years\bin\Debug\07.Years.exe
+D:\Trash\01.IntroCSharp\08.Years\bin\Debug\07.Years.pdb

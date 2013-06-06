@@ -1,0 +1,5 @@
+D:\Trash\02.PrimitiveDataTypesAndVariables\13.AssignsNullValues\bin\Debug\13.AssignsNullValues.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\13.AssignsNullValues\bin\Debug\13.AssignsNullValues.pdb
+D:\Trash\02.PrimitiveDataTypesAndVariables\13.AssignsNullValues\obj\Debug\13.AssignsNullValues.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\13.AssignsNullValues\obj\Debug\13.AssignsNullValues.pdb
+D:\Trash\02.PrimitiveDataTypesAndVariables\13.AssignsNullValues\obj\Debug\13.AssignsNullValues.csprojResolveAssemblyReference.cache

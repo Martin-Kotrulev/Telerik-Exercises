@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\08.QuotedStrings\bin\Debug\08.QuotedStrings.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\08.QuotedStrings\obj\Debug\08.QuotedStrings.csprojResolveAssemblyReference.cache

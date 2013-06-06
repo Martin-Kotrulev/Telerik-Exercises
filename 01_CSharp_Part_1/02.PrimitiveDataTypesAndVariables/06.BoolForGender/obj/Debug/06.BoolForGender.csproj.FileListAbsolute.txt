@@ -1,0 +1,4 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\06.BoolForGender\bin\Debug\06.BoolForGender.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\06.BoolForGender\bin\Debug\06.BoolForGender.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\06.BoolForGender\obj\Debug\06.BoolForGender.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\06.BoolForGender\obj\Debug\06.BoolForGender.pdb

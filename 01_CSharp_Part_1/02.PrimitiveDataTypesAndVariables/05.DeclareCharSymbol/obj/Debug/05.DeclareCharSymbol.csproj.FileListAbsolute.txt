@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\05.DeclareCharSymbol\bin\Debug\05.DeclareCharSymbol.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\05.DeclareCharSymbol\bin\Debug\05.DeclareCharSymbol.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\05.DeclareCharSymbol\obj\Debug\05.DeclareCharSymbol.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\05.DeclareCharSymbol\obj\Debug\05.DeclareCharSymbol.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\05.DeclareCharSymbol\obj\Debug\05.DeclareCharSymbol.csprojResolveAssemblyReference.cache

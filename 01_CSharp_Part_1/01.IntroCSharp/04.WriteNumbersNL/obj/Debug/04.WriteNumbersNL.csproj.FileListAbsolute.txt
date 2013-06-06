@@ -1,0 +1,5 @@
+d:\Trash\01.IntroCSharp\04.WriteNumbersNL\bin\Debug\04.WriteNumbersNL.exe
+d:\Trash\01.IntroCSharp\04.WriteNumbersNL\bin\Debug\04.WriteNumbersNL.pdb
+d:\Trash\01.IntroCSharp\04.WriteNumbersNL\obj\Debug\04.WriteNumbersNL.exe
+d:\Trash\01.IntroCSharp\04.WriteNumbersNL\obj\Debug\04.WriteNumbersNL.pdb
+D:\Trash\01.IntroCSharp\04.WriteNumbersNL\obj\Debug\04.WriteNumbersNL.csprojResolveAssemblyReference.cache

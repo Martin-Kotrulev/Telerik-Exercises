@@ -1,0 +1,6 @@
+d:\Trash\01.IntroCSharp\07.StringNumbers\bin\Debug\07.StringNumbers.exe.config
+d:\Trash\01.IntroCSharp\07.StringNumbers\bin\Debug\07.StringNumbers.exe
+d:\Trash\01.IntroCSharp\07.StringNumbers\bin\Debug\07.StringNumbers.pdb
+d:\Trash\01.IntroCSharp\07.StringNumbers\obj\Debug\07.StringNumbers.csprojResolveAssemblyReference.cache
+d:\Trash\01.IntroCSharp\07.StringNumbers\obj\Debug\07.StringNumbers.exe
+d:\Trash\01.IntroCSharp\07.StringNumbers\obj\Debug\07.StringNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Trash\02.PrimitiveDataTypesAndVariables\11.ExchangeValues\bin\Debug\11.ExchangeValues.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\11.ExchangeValues\bin\Debug\11.ExchangeValues.pdb
+D:\Trash\02.PrimitiveDataTypesAndVariables\11.ExchangeValues\obj\Debug\11.ExchangeValues.csprojResolveAssemblyReference.cache
+D:\Trash\02.PrimitiveDataTypesAndVariables\11.ExchangeValues\obj\Debug\11.ExchangeValues.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\11.ExchangeValues\obj\Debug\11.ExchangeValues.pdb

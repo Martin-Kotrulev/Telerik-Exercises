@@ -1,0 +1,9 @@
+d:\Trash\02.OperatorsExpressionsStatements\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+d:\Trash\02.OperatorsExpressionsStatements\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+d:\Trash\02.OperatorsExpressionsStatements\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+d:\Trash\02.OperatorsExpressionsStatements\01.OddOrEven\obj\Debug\01.OddOrEven.pdb
+D:\Trash\03.OperatorsExpressionsStatements\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+D:\Trash\03.OperatorsExpressionsStatements\01.OddOrEven\obj\Debug\01.OddOrEven.pdb
+D:\Trash\03.OperatorsExpressionsStatements\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+D:\Trash\03.OperatorsExpressionsStatements\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+D:\Trash\03.OperatorsExpressionsStatements\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Trash\02.OperatorsExpressionsStatements\05.BitPosBool\bin\Debug\05.BitPosBool.exe
+D:\Trash\02.OperatorsExpressionsStatements\05.BitPosBool\bin\Debug\05.BitPosBool.pdb
+D:\Trash\02.OperatorsExpressionsStatements\05.BitPosBool\obj\Debug\05.BitPosBool.exe
+D:\Trash\02.OperatorsExpressionsStatements\05.BitPosBool\obj\Debug\05.BitPosBool.pdb
+D:\Trash\03.OperatorsExpressionsStatements\05.BitPosBool\obj\Debug\05.BitPosBool.exe
+D:\Trash\03.OperatorsExpressionsStatements\05.BitPosBool\obj\Debug\05.BitPosBool.pdb
+D:\Trash\03.OperatorsExpressionsStatements\05.BitPosBool\bin\Debug\05.BitPosBool.exe
+D:\Trash\03.OperatorsExpressionsStatements\05.BitPosBool\bin\Debug\05.BitPosBool.pdb

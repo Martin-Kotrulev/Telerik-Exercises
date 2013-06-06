@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\03. AreaRectangle\bin\Debug\_03.AreaRectangle.exe
+D:\Trash\02.OperatorsExpressionsStatements\03. AreaRectangle\bin\Debug\_03.AreaRectangle.pdb
+D:\Trash\02.OperatorsExpressionsStatements\03. AreaRectangle\obj\Debug\_03.AreaRectangle.exe
+D:\Trash\02.OperatorsExpressionsStatements\03. AreaRectangle\obj\Debug\_03.AreaRectangle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\03. AreaRectangle\obj\Debug\_03.AreaRectangle.exe
+D:\Trash\03.OperatorsExpressionsStatements\03. AreaRectangle\obj\Debug\_03.AreaRectangle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\03. AreaRectangle\bin\Debug\_03.AreaRectangle.exe
+D:\Trash\03.OperatorsExpressionsStatements\03. AreaRectangle\bin\Debug\_03.AreaRectangle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\03. AreaRectangle\obj\Debug\03. AreaRectangle.csprojResolveAssemblyReference.cache

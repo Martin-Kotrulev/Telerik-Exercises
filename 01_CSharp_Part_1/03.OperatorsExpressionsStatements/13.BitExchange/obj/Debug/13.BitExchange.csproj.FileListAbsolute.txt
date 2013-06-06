@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\13.BitExchange\bin\Debug\13.BitExchange.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\13.BitExchange\bin\Debug\13.BitExchange.exe
+D:\Trash\02.OperatorsExpressionsStatements\13.BitExchange\bin\Debug\13.BitExchange.pdb
+D:\Trash\02.OperatorsExpressionsStatements\13.BitExchange\obj\Debug\13.BitExchange.exe
+D:\Trash\02.OperatorsExpressionsStatements\13.BitExchange\obj\Debug\13.BitExchange.pdb
+D:\Trash\03.OperatorsExpressionsStatements\13.BitExchange\obj\Debug\13.BitExchange.exe
+D:\Trash\03.OperatorsExpressionsStatements\13.BitExchange\obj\Debug\13.BitExchange.pdb
+D:\Trash\03.OperatorsExpressionsStatements\13.BitExchange\bin\Debug\13.BitExchange.exe
+D:\Trash\03.OperatorsExpressionsStatements\13.BitExchange\bin\Debug\13.BitExchange.pdb

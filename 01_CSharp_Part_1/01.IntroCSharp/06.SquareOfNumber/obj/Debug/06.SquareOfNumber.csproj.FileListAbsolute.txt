@@ -1,0 +1,4 @@
+D:\Trash\01.IntroCSharp\06.SquareOfNumber\obj\Debug\06.SquareRoot.exe
+D:\Trash\01.IntroCSharp\06.SquareOfNumber\obj\Debug\06.SquareRoot.pdb
+D:\Trash\01.IntroCSharp\06.SquareOfNumber\bin\Debug\06.SquareRoot.exe
+D:\Trash\01.IntroCSharp\06.SquareOfNumber\bin\Debug\06.SquareRoot.pdb

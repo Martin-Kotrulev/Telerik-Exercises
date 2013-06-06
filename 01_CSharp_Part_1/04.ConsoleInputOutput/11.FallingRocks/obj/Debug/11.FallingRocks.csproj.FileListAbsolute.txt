@@ -1,0 +1,6 @@
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\Trash\04.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb

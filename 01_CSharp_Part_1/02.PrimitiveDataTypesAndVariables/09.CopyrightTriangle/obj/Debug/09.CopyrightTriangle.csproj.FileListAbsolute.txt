@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\09.CopyrightTriangle\bin\Debug\09.CopyrightTriangle.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\09.CopyrightTriangle\bin\Debug\09.CopyrightTriangle.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.pdb
+D:\Trash\02.PrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.csprojResolveAssemblyReference.cache

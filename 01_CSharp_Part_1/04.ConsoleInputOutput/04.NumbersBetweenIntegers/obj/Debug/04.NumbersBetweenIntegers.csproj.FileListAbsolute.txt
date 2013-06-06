@@ -1,0 +1,5 @@
+D:\Trash\04.ConsoleInputOutput\04.NumbersBetweenIntegers\bin\Debug\04.NumbersBetweenIntegers.exe
+D:\Trash\04.ConsoleInputOutput\04.NumbersBetweenIntegers\bin\Debug\04.NumbersBetweenIntegers.pdb
+D:\Trash\04.ConsoleInputOutput\04.NumbersBetweenIntegers\obj\Debug\04.NumbersBetweenIntegers.csprojResolveAssemblyReference.cache
+D:\Trash\04.ConsoleInputOutput\04.NumbersBetweenIntegers\obj\Debug\04.NumbersBetweenIntegers.exe
+D:\Trash\04.ConsoleInputOutput\04.NumbersBetweenIntegers\obj\Debug\04.NumbersBetweenIntegers.pdb

@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\12.ValueOnPos\bin\Debug\12.ValueOnPos.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\12.ValueOnPos\bin\Debug\12.ValueOnPos.exe
+D:\Trash\02.OperatorsExpressionsStatements\12.ValueOnPos\bin\Debug\12.ValueOnPos.pdb
+D:\Trash\02.OperatorsExpressionsStatements\12.ValueOnPos\obj\Debug\12.ValueOnPos.exe
+D:\Trash\02.OperatorsExpressionsStatements\12.ValueOnPos\obj\Debug\12.ValueOnPos.pdb
+D:\Trash\03.OperatorsExpressionsStatements\12.ValueOnPos\obj\Debug\12.ValueOnPos.exe
+D:\Trash\03.OperatorsExpressionsStatements\12.ValueOnPos\obj\Debug\12.ValueOnPos.pdb
+D:\Trash\03.OperatorsExpressionsStatements\12.ValueOnPos\bin\Debug\12.ValueOnPos.exe
+D:\Trash\03.OperatorsExpressionsStatements\12.ValueOnPos\bin\Debug\12.ValueOnPos.pdb

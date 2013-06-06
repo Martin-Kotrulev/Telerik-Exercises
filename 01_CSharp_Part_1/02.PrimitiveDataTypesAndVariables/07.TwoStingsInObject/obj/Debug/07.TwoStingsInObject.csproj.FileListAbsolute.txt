@@ -1,0 +1,4 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\07.TwoStingsInObject\bin\Debug\07.TwoStingsInObject.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\07.TwoStingsInObject\bin\Debug\07.TwoStingsInObject.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\07.TwoStingsInObject\obj\Debug\07.TwoStingsInObject.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\07.TwoStingsInObject\obj\Debug\07.TwoStingsInObject.pdb

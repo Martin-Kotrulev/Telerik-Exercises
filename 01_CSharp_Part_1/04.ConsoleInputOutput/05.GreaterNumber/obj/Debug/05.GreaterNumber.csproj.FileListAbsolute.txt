@@ -1,0 +1,5 @@
+D:\Trash\04.ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe
+D:\Trash\04.ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.pdb
+D:\Trash\04.ConsoleInputOutput\05.GreaterNumber\obj\Debug\05.GreaterNumber.csprojResolveAssemblyReference.cache
+D:\Trash\04.ConsoleInputOutput\05.GreaterNumber\obj\Debug\05.GreaterNumber.exe
+D:\Trash\04.ConsoleInputOutput\05.GreaterNumber\obj\Debug\05.GreaterNumber.pdb

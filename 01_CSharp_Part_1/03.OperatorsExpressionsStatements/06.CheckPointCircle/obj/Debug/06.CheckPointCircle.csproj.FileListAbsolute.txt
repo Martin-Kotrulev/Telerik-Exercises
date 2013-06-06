@@ -1,0 +1,8 @@
+D:\Trash\02.OperatorsExpressionsStatements\06.CheckPointCircle\bin\Debug\06.CheckPointCircle.exe
+D:\Trash\02.OperatorsExpressionsStatements\06.CheckPointCircle\bin\Debug\06.CheckPointCircle.pdb
+D:\Trash\02.OperatorsExpressionsStatements\06.CheckPointCircle\obj\Debug\06.CheckPointCircle.exe
+D:\Trash\02.OperatorsExpressionsStatements\06.CheckPointCircle\obj\Debug\06.CheckPointCircle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\06.CheckPointCircle\obj\Debug\06.CheckPointCircle.exe
+D:\Trash\03.OperatorsExpressionsStatements\06.CheckPointCircle\obj\Debug\06.CheckPointCircle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\06.CheckPointCircle\bin\Debug\06.CheckPointCircle.exe
+D:\Trash\03.OperatorsExpressionsStatements\06.CheckPointCircle\bin\Debug\06.CheckPointCircle.pdb

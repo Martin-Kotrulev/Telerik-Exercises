@@ -1,0 +1,11 @@
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\bin\Debug\14.MultipleBitsExchange.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\bin\Debug\14.MultipleBitsExchange.exe
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\bin\Debug\14.MultipleBitsExchange.pdb
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.csprojResolveAssemblyReference.cache
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.exe
+D:\Trash\02.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.pdb
+D:\Trash\03.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.exe
+D:\Trash\03.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.pdb
+D:\Trash\03.OperatorsExpressionsStatements\14.MultipleBitsExchange\bin\Debug\14.MultipleBitsExchange.exe
+D:\Trash\03.OperatorsExpressionsStatements\14.MultipleBitsExchange\bin\Debug\14.MultipleBitsExchange.pdb
+D:\Trash\03.OperatorsExpressionsStatements\14.MultipleBitsExchange\obj\Debug\14.MultipleBitsExchange.csprojResolveAssemblyReference.cache

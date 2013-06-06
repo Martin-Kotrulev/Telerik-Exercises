@@ -1,0 +1,4 @@
+d:\Trash\01.IntroCSharp\05.CurrentDateAndTime\bin\Debug\05.CurrentDateAndTime.exe
+d:\Trash\01.IntroCSharp\05.CurrentDateAndTime\bin\Debug\05.CurrentDateAndTime.pdb
+d:\Trash\01.IntroCSharp\05.CurrentDateAndTime\obj\Debug\05.CurrentDateAndTime.exe
+d:\Trash\01.IntroCSharp\05.CurrentDateAndTime\obj\Debug\05.CurrentDateAndTime.pdb

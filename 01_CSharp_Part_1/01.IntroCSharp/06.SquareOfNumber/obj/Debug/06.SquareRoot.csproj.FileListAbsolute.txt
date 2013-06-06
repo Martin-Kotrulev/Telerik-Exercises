@@ -1,0 +1,5 @@
+d:\Trash\01.IntroCSharp\06.SquareRoot\bin\Debug\06.SquareRoot.exe
+d:\Trash\01.IntroCSharp\06.SquareRoot\bin\Debug\06.SquareRoot.pdb
+d:\Trash\01.IntroCSharp\06.SquareRoot\obj\Debug\06.SquareRoot.exe
+d:\Trash\01.IntroCSharp\06.SquareRoot\obj\Debug\06.SquareRoot.pdb
+D:\Trash\01.IntroCSharp\06.SquareRoot\obj\Debug\06.SquareRoot.csprojResolveAssemblyReference.cache

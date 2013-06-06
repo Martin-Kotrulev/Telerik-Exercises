@@ -1,0 +1,8 @@
+D:\Trash\02.OperatorsExpressionsStatements\07.PrimeOrComposite\bin\Debug\07.PrimeOrComposite.exe
+D:\Trash\02.OperatorsExpressionsStatements\07.PrimeOrComposite\bin\Debug\07.PrimeOrComposite.pdb
+D:\Trash\02.OperatorsExpressionsStatements\07.PrimeOrComposite\obj\Debug\07.PrimeOrComposite.exe
+D:\Trash\02.OperatorsExpressionsStatements\07.PrimeOrComposite\obj\Debug\07.PrimeOrComposite.pdb
+D:\Trash\03.OperatorsExpressionsStatements\07.PrimeOrComposite\obj\Debug\07.PrimeOrComposite.exe
+D:\Trash\03.OperatorsExpressionsStatements\07.PrimeOrComposite\obj\Debug\07.PrimeOrComposite.pdb
+D:\Trash\03.OperatorsExpressionsStatements\07.PrimeOrComposite\bin\Debug\07.PrimeOrComposite.exe
+D:\Trash\03.OperatorsExpressionsStatements\07.PrimeOrComposite\bin\Debug\07.PrimeOrComposite.pdb

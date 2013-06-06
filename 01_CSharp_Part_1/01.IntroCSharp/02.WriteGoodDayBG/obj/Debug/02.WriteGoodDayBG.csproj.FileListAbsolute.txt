@@ -1,0 +1,5 @@
+d:\Trash\01.IntroCSharp\02.WriteGoodDayBG\bin\Debug\02.WriteGoodDayBG.exe
+d:\Trash\01.IntroCSharp\02.WriteGoodDayBG\bin\Debug\02.WriteGoodDayBG.pdb
+d:\Trash\01.IntroCSharp\02.WriteGoodDayBG\obj\Debug\02.WriteGoodDayBG.exe
+d:\Trash\01.IntroCSharp\02.WriteGoodDayBG\obj\Debug\02.WriteGoodDayBG.pdb
+D:\Trash\01.IntroCSharp\02.WriteGoodDayBG\obj\Debug\02.WriteGoodDayBG.csprojResolveAssemblyReference.cache

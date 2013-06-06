@@ -1,0 +1,5 @@
+d:\Trash\01.IntroCSharp\03.WriteMyName\bin\Debug\03.WriteMyName.exe
+d:\Trash\01.IntroCSharp\03.WriteMyName\bin\Debug\03.WriteMyName.pdb
+d:\Trash\01.IntroCSharp\03.WriteMyName\obj\Debug\03.WriteMyName.exe
+d:\Trash\01.IntroCSharp\03.WriteMyName\obj\Debug\03.WriteMyName.pdb
+D:\Trash\01.IntroCSharp\03.WriteMyName\obj\Debug\03.WriteMyName.csprojResolveAssemblyReference.cache

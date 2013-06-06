@@ -1,0 +1,4 @@
+D:\Trash\04.ConsoleInputOutput\08.NumbersInInterval\bin\Debug\08.NumbersInInterval.exe
+D:\Trash\04.ConsoleInputOutput\08.NumbersInInterval\bin\Debug\08.NumbersInInterval.pdb
+D:\Trash\04.ConsoleInputOutput\08.NumbersInInterval\obj\Debug\08.NumbersInInterval.exe
+D:\Trash\04.ConsoleInputOutput\08.NumbersInInterval\obj\Debug\08.NumbersInInterval.pdb

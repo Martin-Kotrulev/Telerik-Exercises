@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\02.FloatAndDoubleTypes\bin\Debug\02.FloatAndDoubleTypes.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\02.FloatAndDoubleTypes\bin\Debug\02.FloatAndDoubleTypes.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\02.FloatAndDoubleTypes\obj\Debug\02.FloatAndDoubleTypes.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\02.FloatAndDoubleTypes\obj\Debug\02.FloatAndDoubleTypes.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\02.FloatAndDoubleTypes\obj\Debug\02.FloatAndDoubleTypes.csprojResolveAssemblyReference.cache

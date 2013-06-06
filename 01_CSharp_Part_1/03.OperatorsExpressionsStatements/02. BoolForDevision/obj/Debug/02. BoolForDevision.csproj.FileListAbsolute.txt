@@ -1,0 +1,8 @@
+D:\Trash\02.OperatorsExpressionsStatements\02. BoolForDevision\bin\Debug\_02.BoolForDevision.exe
+D:\Trash\02.OperatorsExpressionsStatements\02. BoolForDevision\bin\Debug\_02.BoolForDevision.pdb
+D:\Trash\02.OperatorsExpressionsStatements\02. BoolForDevision\obj\Debug\_02.BoolForDevision.exe
+D:\Trash\02.OperatorsExpressionsStatements\02. BoolForDevision\obj\Debug\_02.BoolForDevision.pdb
+D:\Trash\03.OperatorsExpressionsStatements\02. BoolForDevision\obj\Debug\_02.BoolForDevision.exe
+D:\Trash\03.OperatorsExpressionsStatements\02. BoolForDevision\obj\Debug\_02.BoolForDevision.pdb
+D:\Trash\03.OperatorsExpressionsStatements\02. BoolForDevision\bin\Debug\_02.BoolForDevision.exe
+D:\Trash\03.OperatorsExpressionsStatements\02. BoolForDevision\bin\Debug\_02.BoolForDevision.pdb

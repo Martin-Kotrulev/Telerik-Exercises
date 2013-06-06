@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\04.IntCheck\bin\Debug\04.IntCheck.exe
+D:\Trash\02.OperatorsExpressionsStatements\04.IntCheck\bin\Debug\04.IntCheck.pdb
+D:\Trash\02.OperatorsExpressionsStatements\04.IntCheck\obj\Debug\04.IntCheck.exe
+D:\Trash\02.OperatorsExpressionsStatements\04.IntCheck\obj\Debug\04.IntCheck.pdb
+D:\Trash\03.OperatorsExpressionsStatements\04.IntCheck\obj\Debug\04.IntCheck.exe
+D:\Trash\03.OperatorsExpressionsStatements\04.IntCheck\obj\Debug\04.IntCheck.pdb
+D:\Trash\03.OperatorsExpressionsStatements\04.IntCheck\bin\Debug\04.IntCheck.exe
+D:\Trash\03.OperatorsExpressionsStatements\04.IntCheck\bin\Debug\04.IntCheck.pdb
+D:\Trash\03.OperatorsExpressionsStatements\04.IntCheck\obj\Debug\04.IntCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\03.SafeFloatCompare\bin\Debug\03.SafeFloatCompare.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\03.SafeFloatCompare\bin\Debug\03.SafeFloatCompare.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\03.SafeFloatCompare\obj\Debug\03.SafeFloatCompare.csprojResolveAssemblyReference.cache
+d:\Trash\02.PrimitiveDataTypesAndVariables\03.SafeFloatCompare\obj\Debug\03.SafeFloatCompare.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\03.SafeFloatCompare\obj\Debug\03.SafeFloatCompare.pdb

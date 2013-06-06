@@ -1,0 +1,10 @@
+D:\Trash\02.OperatorsExpressionsStatements\09.RectangleAndCircle\bin\Debug\09.RectangleAndCircle.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\09.RectangleAndCircle\bin\Debug\09.RectangleAndCircle.exe
+D:\Trash\02.OperatorsExpressionsStatements\09.RectangleAndCircle\bin\Debug\09.RectangleAndCircle.pdb
+D:\Trash\02.OperatorsExpressionsStatements\09.RectangleAndCircle\obj\Debug\09.RectangleAndCircle.exe
+D:\Trash\02.OperatorsExpressionsStatements\09.RectangleAndCircle\obj\Debug\09.RectangleAndCircle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\09.RectangleAndCircle\obj\Debug\09.RectangleAndCircle.exe
+D:\Trash\03.OperatorsExpressionsStatements\09.RectangleAndCircle\obj\Debug\09.RectangleAndCircle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\09.RectangleAndCircle\bin\Debug\09.RectangleAndCircle.exe
+D:\Trash\03.OperatorsExpressionsStatements\09.RectangleAndCircle\bin\Debug\09.RectangleAndCircle.pdb
+D:\Trash\03.OperatorsExpressionsStatements\09.RectangleAndCircle\obj\Debug\09.RectangleAndCircle.csprojResolveAssemblyReference.cache

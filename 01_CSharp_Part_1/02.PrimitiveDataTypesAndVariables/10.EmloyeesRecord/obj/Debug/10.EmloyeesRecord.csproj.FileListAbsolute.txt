@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\10.EmloyeesRecord\obj\Debug\10.EmloyeesRecord.csprojResolveAssemblyReference.cache
+d:\Trash\02.PrimitiveDataTypesAndVariables\10.EmloyeesRecord\bin\Debug\10.EmloyeesRecord.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\10.EmloyeesRecord\bin\Debug\10.EmloyeesRecord.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\10.EmloyeesRecord\obj\Debug\10.EmloyeesRecord.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\10.EmloyeesRecord\obj\Debug\10.EmloyeesRecord.pdb

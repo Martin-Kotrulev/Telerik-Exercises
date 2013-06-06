@@ -1,0 +1,5 @@
+D:\Trash\04.ConsoleInputOutput\07.SumNumbers\bin\Debug\07.SumNumbers.exe
+D:\Trash\04.ConsoleInputOutput\07.SumNumbers\bin\Debug\07.SumNumbers.pdb
+D:\Trash\04.ConsoleInputOutput\07.SumNumbers\obj\Debug\07.SumNumbers.csprojResolveAssemblyReference.cache
+D:\Trash\04.ConsoleInputOutput\07.SumNumbers\obj\Debug\07.SumNumbers.exe
+D:\Trash\04.ConsoleInputOutput\07.SumNumbers\obj\Debug\07.SumNumbers.pdb

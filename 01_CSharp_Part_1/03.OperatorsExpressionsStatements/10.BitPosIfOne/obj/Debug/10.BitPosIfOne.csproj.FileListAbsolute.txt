@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\10.BitPosIfOne\bin\Debug\10.BitPosIfOne.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\10.BitPosIfOne\bin\Debug\10.BitPosIfOne.exe
+D:\Trash\02.OperatorsExpressionsStatements\10.BitPosIfOne\bin\Debug\10.BitPosIfOne.pdb
+D:\Trash\02.OperatorsExpressionsStatements\10.BitPosIfOne\obj\Debug\10.BitPosIfOne.exe
+D:\Trash\02.OperatorsExpressionsStatements\10.BitPosIfOne\obj\Debug\10.BitPosIfOne.pdb
+D:\Trash\03.OperatorsExpressionsStatements\10.BitPosIfOne\obj\Debug\10.BitPosIfOne.exe
+D:\Trash\03.OperatorsExpressionsStatements\10.BitPosIfOne\obj\Debug\10.BitPosIfOne.pdb
+D:\Trash\03.OperatorsExpressionsStatements\10.BitPosIfOne\bin\Debug\10.BitPosIfOne.exe
+D:\Trash\03.OperatorsExpressionsStatements\10.BitPosIfOne\bin\Debug\10.BitPosIfOne.pdb

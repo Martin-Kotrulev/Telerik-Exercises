@@ -1,0 +1,5 @@
+D:\Trash\02.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+D:\Trash\02.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+D:\Trash\02.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\Trash\02.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb

@@ -1,0 +1,9 @@
+D:\Trash\02.OperatorsExpressionsStatements\11.ValueOfBitPos\bin\Debug\11.ValueOfBitPos.exe.config
+D:\Trash\02.OperatorsExpressionsStatements\11.ValueOfBitPos\bin\Debug\11.ValueOfBitPos.exe
+D:\Trash\02.OperatorsExpressionsStatements\11.ValueOfBitPos\bin\Debug\11.ValueOfBitPos.pdb
+D:\Trash\02.OperatorsExpressionsStatements\11.ValueOfBitPos\obj\Debug\11.ValueOfBitPos.exe
+D:\Trash\02.OperatorsExpressionsStatements\11.ValueOfBitPos\obj\Debug\11.ValueOfBitPos.pdb
+D:\Trash\03.OperatorsExpressionsStatements\11.ValueOfBitPos\obj\Debug\11.ValueOfBitPos.exe
+D:\Trash\03.OperatorsExpressionsStatements\11.ValueOfBitPos\obj\Debug\11.ValueOfBitPos.pdb
+D:\Trash\03.OperatorsExpressionsStatements\11.ValueOfBitPos\bin\Debug\11.ValueOfBitPos.exe
+D:\Trash\03.OperatorsExpressionsStatements\11.ValueOfBitPos\bin\Debug\11.ValueOfBitPos.pdb

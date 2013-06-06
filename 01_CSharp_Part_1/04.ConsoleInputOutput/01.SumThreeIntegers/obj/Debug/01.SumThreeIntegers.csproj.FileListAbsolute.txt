@@ -1,0 +1,5 @@
+d:\Trash\04.ConsoleInputOutput\01.SumThreeIntegers\bin\Debug\01.SumThreeIntegers.exe
+d:\Trash\04.ConsoleInputOutput\01.SumThreeIntegers\bin\Debug\01.SumThreeIntegers.pdb
+d:\Trash\04.ConsoleInputOutput\01.SumThreeIntegers\obj\Debug\01.SumThreeIntegers.csprojResolveAssemblyReference.cache
+d:\Trash\04.ConsoleInputOutput\01.SumThreeIntegers\obj\Debug\01.SumThreeIntegers.exe
+d:\Trash\04.ConsoleInputOutput\01.SumThreeIntegers\obj\Debug\01.SumThreeIntegers.pdb

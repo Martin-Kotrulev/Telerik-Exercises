@@ -1,0 +1,5 @@
+D:\Trash\04.ConsoleInputOutput\02.CalculateCircleAreaAndPerimeter\bin\Debug\02.CalculateCircleAreaAndPerimeter.exe
+D:\Trash\04.ConsoleInputOutput\02.CalculateCircleAreaAndPerimeter\bin\Debug\02.CalculateCircleAreaAndPerimeter.pdb
+D:\Trash\04.ConsoleInputOutput\02.CalculateCircleAreaAndPerimeter\obj\Debug\02.CalculateCircleAreaAndPerimeter.exe
+D:\Trash\04.ConsoleInputOutput\02.CalculateCircleAreaAndPerimeter\obj\Debug\02.CalculateCircleAreaAndPerimeter.pdb
+D:\Trash\04.ConsoleInputOutput\02.CalculateCircleAreaAndPerimeter\obj\Debug\02.CalculateCircleAreaAndPerimeter.csprojResolveAssemblyReference.cache

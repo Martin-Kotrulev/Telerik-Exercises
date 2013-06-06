@@ -1,0 +1,5 @@
+d:\Trash\02.PrimitiveDataTypesAndVariables\04.DeclareInHexFormat\bin\Debug\04.DeclareInHexFormat.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\04.DeclareInHexFormat\bin\Debug\04.DeclareInHexFormat.pdb
+d:\Trash\02.PrimitiveDataTypesAndVariables\04.DeclareInHexFormat\obj\Debug\04.DeclareInHexFormat.csprojResolveAssemblyReference.cache
+d:\Trash\02.PrimitiveDataTypesAndVariables\04.DeclareInHexFormat\obj\Debug\04.DeclareInHexFormat.exe
+d:\Trash\02.PrimitiveDataTypesAndVariables\04.DeclareInHexFormat\obj\Debug\04.DeclareInHexFormat.pdb
