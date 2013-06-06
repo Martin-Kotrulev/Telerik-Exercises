@@ -1,0 +1,9 @@
+d:\Trash\05.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.exe
+d:\Trash\05.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.pdb
+d:\Trash\05.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.exe
+d:\Trash\05.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.pdb
+E:\VSPojects\05.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.exe
+E:\VSPojects\05.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.pdb
+E:\VSPojects\05.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.csprojResolveAssemblyReference.cache
+E:\VSPojects\05.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.exe
+E:\VSPojects\05.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.pdb

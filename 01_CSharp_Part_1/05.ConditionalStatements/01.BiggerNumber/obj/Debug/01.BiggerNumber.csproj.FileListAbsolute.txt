@@ -1,0 +1,10 @@
+d:\Trash\05.ConditionalStatements\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+d:\Trash\05.ConditionalStatements\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+d:\Trash\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
+d:\Trash\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+d:\Trash\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
+E:\VSPojects\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+E:\VSPojects\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
+E:\VSPojects\05.ConditionalStatements\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+E:\VSPojects\05.ConditionalStatements\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+E:\VSPojects\05.ConditionalStatements\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache

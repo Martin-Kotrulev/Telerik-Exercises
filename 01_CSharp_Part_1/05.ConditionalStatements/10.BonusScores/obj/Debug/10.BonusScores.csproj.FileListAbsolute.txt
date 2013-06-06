@@ -1,0 +1,4 @@
+E:\VSPojects\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+E:\VSPojects\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+E:\VSPojects\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+E:\VSPojects\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb

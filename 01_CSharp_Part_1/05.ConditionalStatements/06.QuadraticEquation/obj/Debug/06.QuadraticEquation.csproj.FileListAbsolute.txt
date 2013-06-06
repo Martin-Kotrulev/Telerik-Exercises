@@ -1,0 +1,5 @@
+E:\VSPojects\05.ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+E:\VSPojects\05.ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+E:\VSPojects\05.ConditionalStatements\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+E:\VSPojects\05.ConditionalStatements\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+E:\VSPojects\05.ConditionalStatements\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache

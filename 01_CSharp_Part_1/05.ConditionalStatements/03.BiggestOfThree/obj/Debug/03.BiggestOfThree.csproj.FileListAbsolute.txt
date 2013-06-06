@@ -1,0 +1,10 @@
+d:\Trash\05.ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.exe
+d:\Trash\05.ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.pdb
+d:\Trash\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.csprojResolveAssemblyReference.cache
+d:\Trash\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.exe
+d:\Trash\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.pdb
+E:\VSPojects\05.ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.exe
+E:\VSPojects\05.ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.pdb
+E:\VSPojects\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.csprojResolveAssemblyReference.cache
+E:\VSPojects\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.exe
+E:\VSPojects\05.ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.pdb

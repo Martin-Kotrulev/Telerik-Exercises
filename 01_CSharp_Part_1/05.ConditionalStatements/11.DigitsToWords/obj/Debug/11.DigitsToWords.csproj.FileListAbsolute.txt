@@ -1,0 +1,6 @@
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\bin\Debug\11.DigitsToWords.exe.config
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\obj\Debug\11.DigitsToWords.csprojResolveAssemblyReference.cache
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\bin\Debug\11.DigitsToWords.exe
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\bin\Debug\11.DigitsToWords.pdb
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\obj\Debug\11.DigitsToWords.exe
+E:\VSPojects\05.ConditionalStatements\11.DigitsToWords\obj\Debug\11.DigitsToWords.pdb

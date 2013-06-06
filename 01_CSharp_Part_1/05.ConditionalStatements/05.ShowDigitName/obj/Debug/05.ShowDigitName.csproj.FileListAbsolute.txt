@@ -1,0 +1,5 @@
+E:\VSPojects\05.ConditionalStatements\05.ShowDigitName\bin\Debug\05.ShowDigitName.exe
+E:\VSPojects\05.ConditionalStatements\05.ShowDigitName\bin\Debug\05.ShowDigitName.pdb
+E:\VSPojects\05.ConditionalStatements\05.ShowDigitName\obj\Debug\05.ShowDigitName.csprojResolveAssemblyReference.cache
+E:\VSPojects\05.ConditionalStatements\05.ShowDigitName\obj\Debug\05.ShowDigitName.exe
+E:\VSPojects\05.ConditionalStatements\05.ShowDigitName\obj\Debug\05.ShowDigitName.pdb

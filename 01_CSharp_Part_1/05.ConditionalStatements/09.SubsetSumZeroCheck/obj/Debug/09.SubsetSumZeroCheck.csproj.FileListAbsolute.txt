@@ -1,0 +1,5 @@
+E:\VSPojects\05.ConditionalStatements\09.SubsetSumZeroCheck\bin\Debug\09.SubsetSumZeroCheck.exe
+E:\VSPojects\05.ConditionalStatements\09.SubsetSumZeroCheck\bin\Debug\09.SubsetSumZeroCheck.pdb
+E:\VSPojects\05.ConditionalStatements\09.SubsetSumZeroCheck\obj\Debug\09.SubsetSumZeroCheck.exe
+E:\VSPojects\05.ConditionalStatements\09.SubsetSumZeroCheck\obj\Debug\09.SubsetSumZeroCheck.pdb
+E:\VSPojects\05.ConditionalStatements\09.SubsetSumZeroCheck\obj\Debug\09.SubsetSumZeroCheck.csprojResolveAssemblyReference.cache

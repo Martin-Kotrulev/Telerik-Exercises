@@ -1,0 +1,5 @@
+E:\VSPojects\05.ConditionalStatements\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.exe
+E:\VSPojects\05.ConditionalStatements\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.pdb
+E:\VSPojects\05.ConditionalStatements\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.csprojResolveAssemblyReference.cache
+E:\VSPojects\05.ConditionalStatements\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.exe
+E:\VSPojects\05.ConditionalStatements\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.pdb
