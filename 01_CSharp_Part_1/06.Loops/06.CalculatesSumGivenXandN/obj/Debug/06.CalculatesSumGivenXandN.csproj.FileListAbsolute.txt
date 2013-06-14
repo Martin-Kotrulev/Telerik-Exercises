@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\06.CalculatesSumGivenXandN\bin\Debug\06.CalculatesSumGivenXandN.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\06.CalculatesSumGivenXandN\bin\Debug\06.CalculatesSumGivenXandN.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\06.CalculatesSumGivenXandN\obj\Debug\06.CalculatesSumGivenXandN.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\06.CalculatesSumGivenXandN\obj\Debug\06.CalculatesSumGivenXandN.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\06.CalculatesSumGivenXandN\obj\Debug\06.CalculatesSumGivenXandN.pdb

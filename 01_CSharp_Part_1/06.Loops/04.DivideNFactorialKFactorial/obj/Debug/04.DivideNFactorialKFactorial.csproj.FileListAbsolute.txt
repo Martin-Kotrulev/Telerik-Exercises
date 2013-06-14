@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\04.DivideNFactorialKFactorial\bin\Debug\04.DivideNFactorialKFactorial.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\04.DivideNFactorialKFactorial\bin\Debug\04.DivideNFactorialKFactorial.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\04.DivideNFactorialKFactorial\obj\Debug\04.DivideNFactorialKFactorial.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\04.DivideNFactorialKFactorial\obj\Debug\04.DivideNFactorialKFactorial.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\04.DivideNFactorialKFactorial\obj\Debug\04.DivideNFactorialKFactorial.pdb

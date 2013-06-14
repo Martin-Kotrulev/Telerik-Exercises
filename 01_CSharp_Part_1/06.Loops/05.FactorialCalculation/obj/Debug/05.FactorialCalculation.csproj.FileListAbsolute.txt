@@ -1,0 +1,7 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\05.FactorialCalculation\bin\Debug\05.FactorialCalculation.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\05.FactorialCalculation\bin\Debug\05.FactorialCalculation.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\05.FactorialCalculation\obj\Debug\05.FactorialCalculation.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\05.FactorialCalculation\obj\Debug\05.FactorialCalculation.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\05.FactorialCalculation\obj\Debug\05.FactorialCalculation.pdb
+E:\VSPojects\06.Loops\05.FactorialCalculation\obj\Debug\05.FactorialCalculation.exe
+E:\VSPojects\06.Loops\05.FactorialCalculation\obj\Debug\05.FactorialCalculation.pdb

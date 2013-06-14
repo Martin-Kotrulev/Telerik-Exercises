@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\13.FactorialTrailingZeros\bin\Debug\13.FactorialTrailingZeros.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\13.FactorialTrailingZeros\bin\Debug\13.FactorialTrailingZeros.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\13.FactorialTrailingZeros\obj\Debug\13.FactorialTrailingZeros.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\13.FactorialTrailingZeros\obj\Debug\13.FactorialTrailingZeros.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\06.Loops\13.FactorialTrailingZeros\obj\Debug\13.FactorialTrailingZeros.csprojResolveAssemblyReference.cache
