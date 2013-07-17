@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\18.RemoveToSort\obj\Debug\18.RemoveToSort.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\18.RemoveToSort\obj\Debug\18.RemoveToSort.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\18.RemoveToSort\obj\Debug\18.RemoveToSort.pdb

@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\19.PrintsAllPermutations\bin\Debug\19.PrintsAllPermutations.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\19.PrintsAllPermutations\bin\Debug\19.PrintsAllPermutations.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\19.PrintsAllPermutations\obj\Debug\19.PrintsAllPermutations.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\19.PrintsAllPermutations\obj\Debug\19.PrintsAllPermutations.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\19.PrintsAllPermutations\obj\Debug\19.PrintsAllPermutations.csprojResolveAssemblyReference.cache

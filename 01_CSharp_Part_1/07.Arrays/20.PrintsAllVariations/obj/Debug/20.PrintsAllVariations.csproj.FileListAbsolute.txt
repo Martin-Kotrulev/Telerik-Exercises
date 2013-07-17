@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\20.PrintsAllVariations\bin\Debug\20.PrintsAllVariations.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\20.PrintsAllVariations\bin\Debug\20.PrintsAllVariations.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\20.PrintsAllVariations\obj\Debug\20.PrintsAllVariations.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\20.PrintsAllVariations\obj\Debug\20.PrintsAllVariations.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\20.PrintsAllVariations\obj\Debug\20.PrintsAllVariations.csprojResolveAssemblyReference.cache

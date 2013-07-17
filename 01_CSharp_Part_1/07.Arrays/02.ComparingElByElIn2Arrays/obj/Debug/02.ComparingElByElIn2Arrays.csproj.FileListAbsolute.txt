@@ -1,0 +1,4 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\02.ComparingElByElIn2Arrays\bin\Debug\02.ComparingElByElIn2Arrays.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\02.ComparingElByElIn2Arrays\bin\Debug\02.ComparingElByElIn2Arrays.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\02.ComparingElByElIn2Arrays\obj\Debug\02.ComparingElByElIn2Arrays.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\02.ComparingElByElIn2Arrays\obj\Debug\02.ComparingElByElIn2Arrays.pdb

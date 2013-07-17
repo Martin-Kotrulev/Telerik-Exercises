@@ -1,0 +1,4 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\01.IndexMultipliedArray\bin\Debug\01.IndexMultipliedArray.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\01.IndexMultipliedArray\bin\Debug\01.IndexMultipliedArray.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\01.IndexMultipliedArray\obj\Debug\01.IndexMultipliedArray.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\01.IndexMultipliedArray\obj\Debug\01.IndexMultipliedArray.pdb

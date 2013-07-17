@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\15.FindingPrimeNumbers\bin\Debug\15.FindingPrimeNumbers.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\15.FindingPrimeNumbers\bin\Debug\15.FindingPrimeNumbers.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\15.FindingPrimeNumbers\obj\Debug\15.FindingPrimeNumbers.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\15.FindingPrimeNumbers\obj\Debug\15.FindingPrimeNumbers.pdb

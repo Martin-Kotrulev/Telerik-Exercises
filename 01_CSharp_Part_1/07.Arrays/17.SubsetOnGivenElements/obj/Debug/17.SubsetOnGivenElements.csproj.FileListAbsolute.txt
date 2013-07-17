@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubsetOnGivenElements\bin\Debug\17.SubsetOnGivenElements.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubsetOnGivenElements\bin\Debug\17.SubsetOnGivenElements.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubsetOnGivenElements\obj\Debug\17.SubsetOnGivenElements.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubsetOnGivenElements\obj\Debug\17.SubsetOnGivenElements.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubsetOnGivenElements\obj\Debug\17.SubsetOnGivenElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\07.SortingArray\bin\Debug\07.SortingArray.exe.config
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\07.SortingArray\bin\Debug\07.SortingArray.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\07.SortingArray\bin\Debug\07.SortingArray.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\07.SortingArray\obj\Debug\07.SortingArray.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\07.SortingArray\obj\Debug\07.SortingArray.pdb

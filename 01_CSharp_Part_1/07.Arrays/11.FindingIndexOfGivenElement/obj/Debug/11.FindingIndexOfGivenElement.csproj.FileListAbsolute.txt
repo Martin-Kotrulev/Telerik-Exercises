@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\11.FindingIndexOfGivenElement\bin\Debug\11.FindingIndexOfGivenElement.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\11.FindingIndexOfGivenElement\bin\Debug\11.FindingIndexOfGivenElement.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\11.FindingIndexOfGivenElement\obj\Debug\11.FindingIndexOfGivenElement.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\11.FindingIndexOfGivenElement\obj\Debug\11.FindingIndexOfGivenElement.pdb

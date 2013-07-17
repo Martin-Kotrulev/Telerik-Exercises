@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\08.BestSequenceSum\bin\Debug\08.BestSequenceSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\08.BestSequenceSum\bin\Debug\08.BestSequenceSum.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\08.BestSequenceSum\obj\Debug\08.BestSequenceSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\08.BestSequenceSum\obj\Debug\08.BestSequenceSum.pdb

@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb

@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\obj\Debug\06.MaximalSum.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\obj\Debug\06.MaximalSum.pdb

@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\12.IndexesOfEachCharInWord\bin\Debug\12.IndexesOfEachCharInWord.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\12.IndexesOfEachCharInWord\bin\Debug\12.IndexesOfEachCharInWord.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\12.IndexesOfEachCharInWord\obj\Debug\12.IndexesOfEachCharInWord.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\12.IndexesOfEachCharInWord\obj\Debug\12.IndexesOfEachCharInWord.pdb

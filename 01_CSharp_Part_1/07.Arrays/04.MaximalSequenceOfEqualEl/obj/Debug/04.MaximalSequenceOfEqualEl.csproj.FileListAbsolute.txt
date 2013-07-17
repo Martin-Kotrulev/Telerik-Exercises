@@ -1,0 +1,4 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\04.MaximalSequenceOfEqualEl\bin\Debug\04.MaximalSequenceOfEqualEl.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\04.MaximalSequenceOfEqualEl\bin\Debug\04.MaximalSequenceOfEqualEl.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\04.MaximalSequenceOfEqualEl\obj\Debug\04.MaximalSequenceOfEqualEl.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\07.Arrays\04.MaximalSequenceOfEqualEl\obj\Debug\04.MaximalSequenceOfEqualEl.pdb

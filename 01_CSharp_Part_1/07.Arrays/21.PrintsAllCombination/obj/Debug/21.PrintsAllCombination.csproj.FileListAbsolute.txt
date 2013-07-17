@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\21.PrintsAllCombination\bin\Debug\21.PrintsAllCombination.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\21.PrintsAllCombination\bin\Debug\21.PrintsAllCombination.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\21.PrintsAllCombination\obj\Debug\21.PrintsAllCombination.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\21.PrintsAllCombination\obj\Debug\21.PrintsAllCombination.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\07.Arrays\21.PrintsAllCombination\obj\Debug\21.PrintsAllCombination.csprojResolveAssemblyReference.cache
