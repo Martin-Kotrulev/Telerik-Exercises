@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaximalSumOfSquare\bin\Debug\02.MaximalSumOfSquare.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaximalSumOfSquare\bin\Debug\02.MaximalSumOfSquare.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaximalSumOfSquare\obj\Debug\02.MaximalSumOfSquare.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaximalSumOfSquare\obj\Debug\02.MaximalSumOfSquare.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaximalSumOfSquare\obj\Debug\02.MaximalSumOfSquare.pdb

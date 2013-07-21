@@ -1,0 +1,7 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\bin\Debug\06.OverloadingMatrixOperators.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\bin\Debug\06.OverloadingMatrixOperators.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\obj\Debug\06.OverloadingMatrixOperators.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\obj\Debug\06.OverloadingMatrixOperators.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\obj\Debug\06.OverloadingMatrixOperators.pdb
+E:\VSPojects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\obj\Debug\06.OverloadingMatrixOperators.exe
+E:\VSPojects\08.MultidimensionalArrays\06.OverloadingMatrixOperators\obj\Debug\06.OverloadingMatrixOperators.pdb

@@ -1,0 +1,7 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\05.SortStringArray\bin\Debug\05.SortStringArray.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\05.SortStringArray\bin\Debug\05.SortStringArray.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\05.SortStringArray\obj\Debug\05.SortStringArray.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\05.SortStringArray\obj\Debug\05.SortStringArray.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\05.SortStringArray\obj\Debug\05.SortStringArray.pdb
+E:\VSPojects\08.MultidimensionalArrays\05.SortStringArray\obj\Debug\05.SortStringArray.exe
+E:\VSPojects\08.MultidimensionalArrays\05.SortStringArray\obj\Debug\05.SortStringArray.pdb

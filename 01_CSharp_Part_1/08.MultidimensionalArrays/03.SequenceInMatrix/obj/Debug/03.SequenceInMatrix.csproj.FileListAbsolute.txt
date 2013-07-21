@@ -1,0 +1,7 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\03.SequenceInMatrix\bin\Debug\03.SequenceInMatrix.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\03.SequenceInMatrix\bin\Debug\03.SequenceInMatrix.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\03.SequenceInMatrix\obj\Debug\03.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\03.SequenceInMatrix\obj\Debug\03.SequenceInMatrix.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\03.SequenceInMatrix\obj\Debug\03.SequenceInMatrix.pdb
+E:\VSPojects\08.MultidimensionalArrays\03.SequenceInMatrix\obj\Debug\03.SequenceInMatrix.exe
+E:\VSPojects\08.MultidimensionalArrays\03.SequenceInMatrix\obj\Debug\03.SequenceInMatrix.pdb
