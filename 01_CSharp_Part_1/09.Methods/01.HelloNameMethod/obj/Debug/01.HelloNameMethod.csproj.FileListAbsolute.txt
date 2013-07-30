@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\01.HelloNameMethod\bin\Debug\01.HelloNameMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\01.HelloNameMethod\bin\Debug\01.HelloNameMethod.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\01.HelloNameMethod\obj\Debug\01.HelloNameMethod.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\01.HelloNameMethod\obj\Debug\01.HelloNameMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\01.HelloNameMethod\obj\Debug\01.HelloNameMethod.pdb

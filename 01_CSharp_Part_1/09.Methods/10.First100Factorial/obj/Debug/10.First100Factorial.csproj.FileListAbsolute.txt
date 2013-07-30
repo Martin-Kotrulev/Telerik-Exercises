@@ -1,0 +1,6 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\bin\Debug\10.First100Factorial.exe.config
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\bin\Debug\10.First100Factorial.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\bin\Debug\10.First100Factorial.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\obj\Debug\10.First100Factorial.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\obj\Debug\10.First100Factorial.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\10.First100Factorial\obj\Debug\10.First100Factorial.pdb

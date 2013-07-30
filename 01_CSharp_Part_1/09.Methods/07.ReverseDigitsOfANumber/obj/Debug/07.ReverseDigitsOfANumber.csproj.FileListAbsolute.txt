@@ -1,0 +1,4 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\07.ReverseDigitsOfANumber\bin\Debug\07.ReverseDigitsOfANumber.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\07.ReverseDigitsOfANumber\bin\Debug\07.ReverseDigitsOfANumber.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\07.ReverseDigitsOfANumber\obj\Debug\07.ReverseDigitsOfANumber.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\07.ReverseDigitsOfANumber\obj\Debug\07.ReverseDigitsOfANumber.pdb

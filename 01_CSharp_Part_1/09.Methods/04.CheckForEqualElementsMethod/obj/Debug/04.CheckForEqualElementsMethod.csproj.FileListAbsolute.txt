@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\04.CheckForEqualElementsMethod\bin\Debug\04.CheckForEqualElementsMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\04.CheckForEqualElementsMethod\bin\Debug\04.CheckForEqualElementsMethod.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\04.CheckForEqualElementsMethod\obj\Debug\04.CheckForEqualElementsMethod.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\04.CheckForEqualElementsMethod\obj\Debug\04.CheckForEqualElementsMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\04.CheckForEqualElementsMethod\obj\Debug\04.CheckForEqualElementsMethod.pdb

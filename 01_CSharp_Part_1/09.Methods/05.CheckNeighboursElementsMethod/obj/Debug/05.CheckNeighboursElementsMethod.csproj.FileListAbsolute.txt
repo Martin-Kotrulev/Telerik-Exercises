@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\05.CheckNeighboursElementsMethod\bin\Debug\05.CheckNeighboursElementsMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\05.CheckNeighboursElementsMethod\bin\Debug\05.CheckNeighboursElementsMethod.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\05.CheckNeighboursElementsMethod\obj\Debug\05.CheckNeighboursElementsMethod.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\05.CheckNeighboursElementsMethod\obj\Debug\05.CheckNeighboursElementsMethod.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\09.Methods\05.CheckNeighboursElementsMethod\obj\Debug\05.CheckNeighboursElementsMethod.pdb
