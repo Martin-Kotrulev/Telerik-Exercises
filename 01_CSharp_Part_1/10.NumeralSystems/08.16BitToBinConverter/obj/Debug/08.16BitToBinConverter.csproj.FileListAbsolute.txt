@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\08.16BitToBinConverter\bin\Debug\08.16BitToBinConverter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\08.16BitToBinConverter\bin\Debug\08.16BitToBinConverter.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\08.16BitToBinConverter\obj\Debug\08.16BitToBinConverter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\08.16BitToBinConverter\obj\Debug\08.16BitToBinConverter.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\08.16BitToBinConverter\obj\Debug\08.16BitToBinConverter.csprojResolveAssemblyReference.cache

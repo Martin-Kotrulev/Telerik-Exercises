@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\03.DecToHexConverter\bin\Debug\03.DecToHexConverter.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\03.DecToHexConverter\bin\Debug\03.DecToHexConverter.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\03.DecToHexConverter\obj\Debug\03.DecToHexConverter.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\03.DecToHexConverter\obj\Debug\03.DecToHexConverter.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\03.DecToHexConverter\obj\Debug\03.DecToHexConverter.csprojResolveAssemblyReference.cache

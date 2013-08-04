@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\02.BinaryToDecimalConvertor\bin\Debug\02.BinaryToDecimalConvertor.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\02.BinaryToDecimalConvertor\bin\Debug\02.BinaryToDecimalConvertor.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\02.BinaryToDecimalConvertor\obj\Debug\02.BinaryToDecimalConvertor.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\02.BinaryToDecimalConvertor\obj\Debug\02.BinaryToDecimalConvertor.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\10.NumeralSystems\02.BinaryToDecimalConvertor\obj\Debug\02.BinaryToDecimalConvertor.csprojResolveAssemblyReference.cache

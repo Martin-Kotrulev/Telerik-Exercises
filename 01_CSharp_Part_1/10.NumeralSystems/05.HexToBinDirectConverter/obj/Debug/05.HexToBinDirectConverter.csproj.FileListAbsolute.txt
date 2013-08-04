@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\05.HexToBinDirectConverter\bin\Debug\05.HexToBinDirectConverter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\05.HexToBinDirectConverter\bin\Debug\05.HexToBinDirectConverter.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\05.HexToBinDirectConverter\obj\Debug\05.HexToBinDirectConverter.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\05.HexToBinDirectConverter\obj\Debug\05.HexToBinDirectConverter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\10.NumeralSystems\05.HexToBinDirectConverter\obj\Debug\05.HexToBinDirectConverter.pdb
