@@ -1,0 +1,4 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadNumberProgram\bin\Debug\02.ReadNumberProgram.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadNumberProgram\bin\Debug\02.ReadNumberProgram.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadNumberProgram\obj\Debug\02.ReadNumberProgram.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadNumberProgram\obj\Debug\02.ReadNumberProgram.pdb

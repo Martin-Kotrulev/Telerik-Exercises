@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\05.WorkDaysCalculator\bin\Debug\05.WorkDaysCalculator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\05.WorkDaysCalculator\bin\Debug\05.WorkDaysCalculator.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\05.WorkDaysCalculator\obj\Debug\05.WorkDaysCalculator.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\05.WorkDaysCalculator\obj\Debug\05.WorkDaysCalculator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\05.WorkDaysCalculator\obj\Debug\05.WorkDaysCalculator.pdb

@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\02.RandomNumGenerator\bin\Debug\02.RandomNumGenerator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\02.RandomNumGenerator\bin\Debug\02.RandomNumGenerator.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\02.RandomNumGenerator\obj\Debug\02.RandomNumGenerator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\02.RandomNumGenerator\obj\Debug\02.RandomNumGenerator.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\02.RandomNumGenerator\obj\Debug\02.RandomNumGenerator.csprojResolveAssemblyReference.cache

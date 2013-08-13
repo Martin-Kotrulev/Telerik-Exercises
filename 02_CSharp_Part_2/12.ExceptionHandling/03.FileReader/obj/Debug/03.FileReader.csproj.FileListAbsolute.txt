@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\03.FileReader\bin\Debug\03.FileReader.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\03.FileReader\bin\Debug\03.FileReader.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\03.FileReader\obj\Debug\03.FileReader.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\03.FileReader\obj\Debug\03.FileReader.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\12.ExceptionHandling\03.FileReader\obj\Debug\03.FileReader.csprojResolveAssemblyReference.cache

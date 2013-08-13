@@ -1,0 +1,6 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\bin\Debug\04.TriangleSurfaceCalculator.exe.config
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\bin\Debug\04.TriangleSurfaceCalculator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\bin\Debug\04.TriangleSurfaceCalculator.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\obj\Debug\04.TriangleSurfaceCalculator.csprojResolveAssemblyReference.cache
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\obj\Debug\04.TriangleSurfaceCalculator.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\04.TriangleSurfaceCalculator\obj\Debug\04.TriangleSurfaceCalculator.pdb

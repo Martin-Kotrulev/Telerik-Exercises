@@ -1,0 +1,5 @@
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\03.CurrentWeekDayChecker\bin\Debug\03.CurrentWeekDayChecker.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\03.CurrentWeekDayChecker\bin\Debug\03.CurrentWeekDayChecker.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\03.CurrentWeekDayChecker\obj\Debug\03.CurrentWeekDayChecker.exe
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\03.CurrentWeekDayChecker\obj\Debug\03.CurrentWeekDayChecker.pdb
+c:\users\gamen40\documents\visual studio 2012\Projects\11.UsingClassesAndObjects\03.CurrentWeekDayChecker\obj\Debug\03.CurrentWeekDayChecker.csprojResolveAssemblyReference.cache
