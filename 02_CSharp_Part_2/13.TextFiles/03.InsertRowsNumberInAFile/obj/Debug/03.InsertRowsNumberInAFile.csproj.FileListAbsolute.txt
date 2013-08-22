@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\03.InsertRowsNumberInAFile\bin\Debug\03.InsertRowsNumberInAFile.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\03.InsertRowsNumberInAFile\bin\Debug\03.InsertRowsNumberInAFile.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\03.InsertRowsNumberInAFile\obj\Debug\03.InsertRowsNumberInAFile.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\03.InsertRowsNumberInAFile\obj\Debug\03.InsertRowsNumberInAFile.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\03.InsertRowsNumberInAFile\obj\Debug\03.InsertRowsNumberInAFile.pdb

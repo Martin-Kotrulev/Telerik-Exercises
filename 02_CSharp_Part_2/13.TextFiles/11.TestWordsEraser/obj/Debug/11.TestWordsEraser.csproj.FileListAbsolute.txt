@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\11.TestWordsEraser\bin\Debug\11.TestWordsEraser.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\11.TestWordsEraser\bin\Debug\11.TestWordsEraser.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\11.TestWordsEraser\obj\Debug\11.TestWordsEraser.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\11.TestWordsEraser\obj\Debug\11.TestWordsEraser.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\11.TestWordsEraser\obj\Debug\11.TestWordsEraser.csprojResolveAssemblyReference.cache

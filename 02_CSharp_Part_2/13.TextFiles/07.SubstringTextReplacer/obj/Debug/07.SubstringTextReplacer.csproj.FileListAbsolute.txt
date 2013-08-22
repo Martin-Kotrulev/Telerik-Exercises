@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\07.SubstringTextReplacer\bin\Debug\07.SubstringTextReplacer.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\07.SubstringTextReplacer\bin\Debug\07.SubstringTextReplacer.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\07.SubstringTextReplacer\obj\Debug\07.SubstringTextReplacer.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\07.SubstringTextReplacer\obj\Debug\07.SubstringTextReplacer.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\07.SubstringTextReplacer\obj\Debug\07.SubstringTextReplacer.csprojResolveAssemblyReference.cache

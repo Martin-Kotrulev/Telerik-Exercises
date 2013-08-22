@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\08.WordReplacer\bin\Debug\08.WordReplacer.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\08.WordReplacer\bin\Debug\08.WordReplacer.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\08.WordReplacer\obj\Debug\08.WordReplacer.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\08.WordReplacer\obj\Debug\08.WordReplacer.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\08.WordReplacer\obj\Debug\08.WordReplacer.csprojResolveAssemblyReference.cache

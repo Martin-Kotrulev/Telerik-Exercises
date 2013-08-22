@@ -1,0 +1,7 @@
+you: 21
+somebody: 9
+need: 4
+have: 4
+friends: 3
+love: 3
+stranger: 2

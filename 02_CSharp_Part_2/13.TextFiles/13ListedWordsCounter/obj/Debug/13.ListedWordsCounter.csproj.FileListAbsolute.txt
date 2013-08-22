@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\13ListedWordsCounter\bin\Debug\13ListedWordsCounter.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\13ListedWordsCounter\bin\Debug\13ListedWordsCounter.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\13ListedWordsCounter\obj\Debug\13ListedWordsCounter.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\13ListedWordsCounter\obj\Debug\13ListedWordsCounter.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\13ListedWordsCounter\obj\Debug\13.ListedWordsCounter.csprojResolveAssemblyReference.cache

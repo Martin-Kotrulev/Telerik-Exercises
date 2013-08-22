@@ -1,0 +1,4 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\06.NamesSorter\bin\Debug\06.NamesSorter.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\06.NamesSorter\bin\Debug\06.NamesSorter.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\06.NamesSorter\obj\Debug\06.NamesSorter.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\06.NamesSorter\obj\Debug\06.NamesSorter.pdb

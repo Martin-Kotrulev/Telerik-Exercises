@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\01.OddLinesPrinter\bin\Debug\01.OddLinesPrinter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\01.OddLinesPrinter\bin\Debug\01.OddLinesPrinter.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\01.OddLinesPrinter\obj\Debug\01.OddLinesPrinter.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\01.OddLinesPrinter\obj\Debug\01.OddLinesPrinter.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\01.OddLinesPrinter\obj\Debug\01.OddLinesPrinter.pdb

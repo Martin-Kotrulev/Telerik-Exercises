@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\02.TwoFilesConcatenator\bin\Debug\02.TwoFilesConcatenator.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\02.TwoFilesConcatenator\bin\Debug\02.TwoFilesConcatenator.pdb
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\02.TwoFilesConcatenator\obj\Debug\02.TwoFilesConcatenator.exe
+C:\Users\GAMEN40\Documents\Visual Studio 2012\Projects\13.TextFiles\02.TwoFilesConcatenator\obj\Debug\02.TwoFilesConcatenator.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\02.TwoFilesConcatenator\obj\Debug\02.TwoFilesConcatenator.csprojResolveAssemblyReference.cache

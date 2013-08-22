@@ -1,0 +1,5 @@
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\05.MaxSumInMatrixReader\bin\Debug\05.MaxSumInMatrixReader.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\05.MaxSumInMatrixReader\bin\Debug\05.MaxSumInMatrixReader.pdb
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\05.MaxSumInMatrixReader\obj\Debug\05.MaxSumInMatrixReader.csprojResolveAssemblyReference.cache
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\05.MaxSumInMatrixReader\obj\Debug\05.MaxSumInMatrixReader.exe
+C:\Users\GAMEN40\documents\visual studio 2012\Projects\13.TextFiles\05.MaxSumInMatrixReader\obj\Debug\05.MaxSumInMatrixReader.pdb

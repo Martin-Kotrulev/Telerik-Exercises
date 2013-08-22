@@ -1,0 +1,21 @@
+1. using System;
+2. using System.IO;
+3. 
+4. class InsertRowsNumberInAFile
+5. {
+6.     static void Main()
+7.     {
+8.         int row = 1;
+9. 
+10.         using (StreamReader fileReader = 
+11.             new StreamReader("../../InsertRowsNumberInAFile.cs"))
+12.         using (StreamWriter outputWriter = new StreamWriter("../../output.txt"))
+13.         {
+14.             for (string line; (line = fileReader.ReadLine()) != null; row++)
+15.             {
+16.                 outputWriter.WriteLine("{0}. {1}", row, line);
+17.             }
+18.         }
+19.     }
+20. }
+21. 
